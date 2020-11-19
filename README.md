@@ -1,5 +1,5 @@
-### Linked Lists
-# Coded: May 2020
+# Linked Lists
+### Coded: May 2020
 
 This was my task as part of the final project of Data Strcutures
 
